@@ -1,0 +1,19 @@
+.app_heading {
+  font-weight: 900;
+  font-size: 50px;
+  margin: 20px;
+  margin-bottom: 40px;
+}
+
+input {
+  width: 80%;
+  text-align: center;
+}
+
+.kg-row {
+  margin: 20px;
+}
+
+.kg-button {
+  width: 50%;
+}

@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@400&display=swap");
+
+h1 {
+  font-family: "Orbitron", "san-serif";
+  color: rgb(17, 24, 18);
+}
+
+.calculator {
+  border: 2px solid black;
+  width: 300px;
+  border-radius: 10px;
+  padding: 10px;
+  background-color: rgb(200, 199, 199);
+  box-shadow: 20px 25px 5px grey;
+  transition: all 0.4s ease-in-out 0.1s;
+}
+
+.calculator:hover {
+  transform: scale(1.3);
+}
+
